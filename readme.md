@@ -1,0 +1,1 @@
+Complementary Repository for the Medium article [Implementing REST API Pagination in Fabric & Azure Data Factory](https://medium.com/@TimsMind/implementing-rest-api-pagination-in-fabric-azure-data-factory-8dd563418719)
